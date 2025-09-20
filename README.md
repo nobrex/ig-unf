@@ -1,3 +1,1 @@
-Instagram.com gir >
-Öğeyi Denetle > Console
-Scripti yapıştır > enterla
+Instagram.com gir > Öğeyi Denetle > Console > Scripti yapıştır > ENTER!
